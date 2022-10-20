@@ -1,8 +1,9 @@
 navbar_title = 'Monochrome'
-footer = "Copyright © 2021-2022 by kaiiiz"
+footer = "Copyright © 2021-2022 - Built with <a href='https://gohugo.io/'>HUGO</a> - Theme <a href='https://github.com/kaiiiz/hugo-theme-monochrome'>Monochrome</a>"
 author = "kaiiiz"
+logo = "logo.png"
 
-enable_zooming_js = true
+enable_zooming_js = false
 enable_toc = true
 enable_site_search = true
 enable_math = false
@@ -12,7 +13,7 @@ enable_open_graph = true
 enable_twitter_cards = true
 
 # Collapsible Menu
-enable_collapsible_toc = false
+enable_collapsible_toc = true
 enable_collapsible_changelogs = true
 
 [list_layout]

@@ -1,0 +1,7 @@
+"tags" = "Tags"
+"recent_posts" = "Posts récents"
+"toc" = "Index"
+"no_page_under_resouces" = 'Pas de page sous {{ .resources_path }}. Vous devez spécifier "{{ .resources_name }}" correctement dans le header et vérifier l existence de posts dans ce dossier.'
+"resources_not_found" = 'Ressources non trouvées. Vous devez spécifier "{{ .resources_name }}" correctement dans le header.'
+"search" = "Recherche"
+"changelogs" = "Changelogs"

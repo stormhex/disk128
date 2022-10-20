@@ -1,0 +1,29 @@
+[[navbar]]
+  identifier = "linux"
+  name = "Linux"
+  url = "/linux/"
+  weight = 1
+
+[[navbar]]
+  identifier = "raspberry"
+  name = "Raspberry"
+  url = "/raspberry/"
+  weight = 2
+
+[[navbar]]
+  identifier = "virtualbox"
+  name = "Virtualbox"
+  url = "/virtualbox/"
+  weight = 3
+
+[[navbar]]
+  identifier = "windows"
+  name = "Windows"
+  url = "/windows/"
+  weight = 4
+
+[[navbar]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 5

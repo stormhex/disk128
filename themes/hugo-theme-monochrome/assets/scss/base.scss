@@ -106,3 +106,8 @@ details[open] > summary {
     width: $xxl_main_width;
   }
 }
+
+img[src$="centerimg"] {
+  display:block;
+  margin: 0 auto;
+}

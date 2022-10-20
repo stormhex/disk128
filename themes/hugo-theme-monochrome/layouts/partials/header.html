@@ -7,11 +7,17 @@
         </div>
 
         <div>
-            <a href="{{ .Site.Home.RelPermalink }}">
+            {{ if .Site.Params.logo }}
+                <a href="{{ .Site.Home.RelPermalink }}">
+                <img src="{{ .Site.Params.logo  | relURL }}" alt="{{ .Site.Params.navbar_title }}"/>
+                </a>
+            {{ else }}
+                <a href="{{ .Site.Home.RelPermalink }}">
                 {{- with (.Scratch.Get "params").navbar_title }}
                     {{- . | safeHTML -}}
                 {{- end -}}
-            </a>
+                </a>
+            {{ end }}
         </div>
     </div>
 
