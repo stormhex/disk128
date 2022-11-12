@@ -2,6 +2,7 @@ navbar_title = 'Monochrome'
 footer = "Copyright © 2021-2022 - Built with <a href='https://gohugo.io/'>HUGO</a> - Theme <a href='https://github.com/kaiiiz/hugo-theme-monochrome'>Monochrome</a>"
 author = "Disk128"
 logo = "logo.png"
+ga = true
 
 enable_zooming_js = false
 enable_toc = true
