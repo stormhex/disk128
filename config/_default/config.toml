@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://disk128.netlify.app/"
 languageCode = "fr"
-title = "Monochrome"
+title = "Disk128"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "fr"
 enableEmoji = true
