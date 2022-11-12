@@ -1,6 +1,6 @@
 navbar_title = 'Monochrome'
 footer = "Copyright © 2021-2022 - Built with <a href='https://gohugo.io/'>HUGO</a> - Theme <a href='https://github.com/kaiiiz/hugo-theme-monochrome'>Monochrome</a>"
-author = "kaiiiz"
+author = "Disk128"
 logo = "logo.png"
 
 enable_zooming_js = false
@@ -25,9 +25,9 @@ enable_pagination = false
 [syntax_highlight]
 lib = "prism.js" # "builtin" | "prism.js"
 
-    [syntax_highlight.builtin]
-    enable_code_copy = true
+[syntax_highlight.builtin]
+enable_code_copy = true
 
-    [syntax_highlight.prism]
-    enable_code_copy = true
-    enable_line_no = false
+[syntax_highlight.prism]
+enable_code_copy = true
+enable_line_no = false
