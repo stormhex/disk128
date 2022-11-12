@@ -3,8 +3,6 @@ title: Logiciels
 weight: 5
 ---
 
-{{< breadcrumbs >}}
-
 # Logiciels
 
 ## Veracrypt

@@ -10,8 +10,8 @@ enable_site_search = true
 enable_math = false
 
 # SEO
-enable_open_graph = true
-enable_twitter_cards = true
+enable_open_graph = false
+enable_twitter_cards = false
 
 # Collapsible Menu
 enable_collapsible_toc = true

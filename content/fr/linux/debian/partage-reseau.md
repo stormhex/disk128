@@ -4,8 +4,6 @@ weight: 2
 toc: false
 ---
 
-{{< breadcrumbs >}}
-
 # Partage réseau
 
 ## Packets nécessaires

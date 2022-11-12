@@ -3,8 +3,6 @@ title: Configuration Gnome
 weight: 3
 ---
 
-{{< breadcrumbs >}}
-
 # Configuration Gnome
 
 ## Packets additionels nécessaires

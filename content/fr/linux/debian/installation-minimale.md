@@ -3,8 +3,6 @@ title: Installation minimale
 weight: 1
 ---
 
-{{< breadcrumbs >}}
-
 # Installation minimale
 
 Installer une version minimale de Debian avec le desktop Gnome ou XFCE

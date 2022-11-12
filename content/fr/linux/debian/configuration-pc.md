@@ -3,8 +3,6 @@ title: Configuration PC
 weight: 6
 ---
 
-{{< breadcrumbs >}}
-
 # Configuration PC
 
 ## Processeur Intel
