@@ -461,10 +461,6 @@ details[open] > summary {
   main {
     width: 40%; } }
 
-img[src$="centerimg"] {
-  display: block;
-  margin: 0 auto; }
-
 article {
   line-height: 1.7; }
   article > *:first-child {
