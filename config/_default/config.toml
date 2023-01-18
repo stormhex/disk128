@@ -1,0 +1,15 @@
+baseURL = "https://disk128.netlify.app/"
+languageCode = "fr"
+title = "Monochrome"
+theme = "hugo-theme-monochrome"
+defaultContentLanguage = "fr"
+enableEmoji = true
+paginate = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
