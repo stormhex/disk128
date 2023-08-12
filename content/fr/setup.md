@@ -4,6 +4,8 @@ title: 'Setup'
 
 This document shows a brief guide to setup hugo-theme-monochrome in your hugo project.
 
+Test Modification
+
 ## Quick Start
 
 ### Install Hugo
